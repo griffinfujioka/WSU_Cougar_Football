@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{68B9A51D-3AE6-412B-AC5B-12C787C28ADE}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\App Challenge Information.docx = Documentation\App Challenge Information.docx
+		Documentation\Customize CSharp InfoHub Instructions.docx = Documentation\Customize CSharp InfoHub Instructions.docx
+		Documentation\Customize CSharp MultipleChoice Instructions.docx = Documentation\Customize CSharp MultipleChoice Instructions.docx
+		Documentation\Images and Sound Resources.docx = Documentation\Images and Sound Resources.docx
+		Documentation\Setup DreamSpark Instructions.docx = Documentation\Setup DreamSpark Instructions.docx
+		Documentation\Setup Microsoft PubCenter Instructions.docx = Documentation\Setup Microsoft PubCenter Instructions.docx
+		Documentation\Setup TFS Account Instructions.docx = Documentation\Setup TFS Account Instructions.docx
+		Documentation\Setup Windows Azure Account Instructions.docx = Documentation\Setup Windows Azure Account Instructions.docx
+		Documentation\Setup Windows Azure WebSite Instructions.docx = Documentation\Setup Windows Azure WebSite Instructions.docx
+		Documentation\Setup Windows Store Account Instructions.docx = Documentation\Setup Windows Store Account Instructions.docx
+		Documentation\Submit to Windows Store Instructions.docx = Documentation\Submit to Windows Store Instructions.docx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoHub", "InfoHub\InfoHub.csproj", "{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "°Config", "°Config", "{16D8F6E8-7548-466D-A6C8-80C49596F44A}"
+	ProjectSection(SolutionItems) = preProject
+		InfoHub\AppHubViewModel.xml = InfoHub\AppHubViewModel.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|ARM.ActiveCfg = Debug|ARM
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|ARM.Build.0 = Debug|ARM
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|ARM.Deploy.0 = Debug|ARM
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|x64.ActiveCfg = Debug|x64
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|x64.Build.0 = Debug|x64
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|x64.Deploy.0 = Debug|x64
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|x86.ActiveCfg = Debug|x86
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|x86.Build.0 = Debug|x86
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Debug|x86.Deploy.0 = Debug|x86
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|ARM.ActiveCfg = Release|ARM
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|ARM.Build.0 = Release|ARM
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|ARM.Deploy.0 = Release|ARM
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|x64.ActiveCfg = Release|x64
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|x64.Build.0 = Release|x64
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|x64.Deploy.0 = Release|x64
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|x86.ActiveCfg = Release|x86
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|x86.Build.0 = Release|x86
+		{3349C9C0-F37A-43A6-9EF2-AE97BA5A4921}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
