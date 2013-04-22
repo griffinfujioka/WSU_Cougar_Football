@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8PRORTMDEV</Machine>
+    <WindowsUser>Griffin</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>7CB1832F2A73B6E67CC76E16186A2FAAE0CE591B8F706926A947004354811E9B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>36726GriffinFujioka.WSUCougarFootball_1.0.0.1_neutral__v16qdx5f1y1nr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>36726GriffinFujioka.WSUCougarFootball_v16qdx5f1y1nr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>36726GriffinFujioka.WSUCougarFootball</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=7A2280AF-F3B0-499B-A221-E1F53BF165FF</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-16T07:26:06.046</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\InfoHub.exe">
+      <PackagePath>InfoHub.exe</PackagePath>
+      <Modified>2013-04-16T07:26:00.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\InfoHub.pdb">
+      <PackagePath>InfoHub.pdb</PackagePath>
+      <Modified>2013-04-16T07:26:00.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-01-24T19:28:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-01-24T19:28:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.xml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.xml</PackagePath>
+      <Modified>2013-01-24T19:31:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.xml">
+      <PackagePath>MicrosoftAdvertising.xml</PackagePath>
+      <Modified>2013-01-24T19:31:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-01-24T18:37:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xaml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-01-24T18:37:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-01-24T18:37:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\AppHubViewModel.xml">
+      <PackagePath>AppHubViewModel.xml</PackagePath>
+      <Modified>2013-04-10T02:26:19.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Feeds\Weather.xml">
+      <PackagePath>Feeds\Weather.xml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\SmallTile.png">
+      <PackagePath>Assets\SmallTile.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-10T02:36:50.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-10T02:36:48.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\SquareTile.png">
+      <PackagePath>Assets\SquareTile.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-10T02:36:48.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-10T02:36:50.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\WideTile.png">
+      <PackagePath>Assets\WideTile.png</PackagePath>
+      <Modified>2013-04-10T02:36:50.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\SummaryImage.png">
+      <PackagePath>Assets\SummaryImage.png</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\Background.jpg">
+      <PackagePath>Assets\Background.jpg</PackagePath>
+      <Modified>2013-04-10T02:27:42.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Assets\AltAdvert.jpg">
+      <PackagePath>Assets\AltAdvert.jpg</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-10T02:26:50.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\AppHub_Classic.xaml">
+      <PackagePath>AppHub_Classic.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\AppHub_Sports.xaml">
+      <PackagePath>AppHub_Sports.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Common\Browser.xaml">
+      <PackagePath>Common\Browser.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\ExtendedStart.xaml">
+      <PackagePath>ExtendedStart.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Flyouts\About.xaml">
+      <PackagePath>Flyouts\About.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Flyouts\Privacy.xaml">
+      <PackagePath>Flyouts\Privacy.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\AdvertArticle.xaml">
+      <PackagePath>Styles\Classic\AdvertArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\CalendarArticle.xaml">
+      <PackagePath>Styles\Classic\CalendarArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\FlickrArticle.xaml">
+      <PackagePath>Styles\Classic\FlickrArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\NewsArticle.xaml">
+      <PackagePath>Styles\Classic\NewsArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\Shared.xaml">
+      <PackagePath>Styles\Classic\Shared.xaml</PackagePath>
+      <Modified>2013-04-10T02:26:52.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\SnapView.xaml">
+      <PackagePath>Styles\Classic\SnapView.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\SummaryArticle.xaml">
+      <PackagePath>Styles\Classic\SummaryArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\TwitterArticle.xaml">
+      <PackagePath>Styles\Classic\TwitterArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\WeatherArticle.xaml">
+      <PackagePath>Styles\Classic\WeatherArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Classic\YouTubeArticle.xaml">
+      <PackagePath>Styles\Classic\YouTubeArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\AdvertArticle.xaml">
+      <PackagePath>Styles\Sports\AdvertArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\CalendarArticle.xaml">
+      <PackagePath>Styles\Sports\CalendarArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\FlickrArticle.xaml">
+      <PackagePath>Styles\Sports\FlickrArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\NewsArticle.xaml">
+      <PackagePath>Styles\Sports\NewsArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\Shared.xaml">
+      <PackagePath>Styles\Sports\Shared.xaml</PackagePath>
+      <Modified>2013-04-10T02:26:53.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\SnapView.xaml">
+      <PackagePath>Styles\Sports\SnapView.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\SummaryArticle.xaml">
+      <PackagePath>Styles\Sports\SummaryArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\TwitterArticle.xaml">
+      <PackagePath>Styles\Sports\TwitterArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\WeatherArticle.xaml">
+      <PackagePath>Styles\Sports\WeatherArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\Styles\Sports\YouTubeArticle.xaml">
+      <PackagePath>Styles\Sports\YouTubeArticle.xaml</PackagePath>
+      <Modified>2013-04-08T17:17:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8AppMaker\WSUCougarFootball\InfoHub\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-10T02:46:53.314</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

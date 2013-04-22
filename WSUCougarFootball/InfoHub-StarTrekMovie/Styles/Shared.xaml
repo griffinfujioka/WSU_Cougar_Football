@@ -1,0 +1,41 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:helpers="using:InfoHub.Helpers">
+
+    <!-- colors -->
+
+    <!-- Primary Color -->
+    <Color x:Key="PrimaryColor">#FF1B5682</Color>
+    <SolidColorBrush x:Key="PrimaryBrush" Color="{StaticResource PrimaryColor}" />
+    
+    <!-- PrimaryContrastColor -->
+    <Color x:Key="PrimaryContrastColor">White</Color>
+    <SolidColorBrush x:Key="PrimaryContrastBrush" Color="{StaticResource PrimaryContrastColor}" />
+
+    <!-- Secondaryt Color -->
+    <Color x:Key="SecondaryColor">#FF1B5682</Color>
+    <!--<SolidColorBrush x:Key="SecondaryBrush" Opacity=".85" Color="{StaticResource SecondaryColor}" />-->
+    <ImageBrush x:Key="SecondaryBrush" ImageSource="ms-appx:///Assets/StarField.jpg" Opacity="0.9" Stretch="UniformToFill" />
+
+    <!-- SecondaryContrastColor -->
+    <Color x:Key="SecondaryContrastColor">White</Color>
+    <SolidColorBrush x:Key="SecondaryContrastBrush" Opacity=".85" Color="{StaticResource SecondaryContrastColor}" />
+
+    <!-- start screen color -->
+    <Color x:Key="StartColor">Black</Color>
+    <SolidColorBrush x:Key="StartBrush" Opacity="1" Color="{StaticResource StartColor}" />
+
+    <!-- This changes the Title and Subtitle -->
+    <Color x:Key="GroupHeaderColor">White</Color>
+    <SolidColorBrush x:Key="GroupHeaderBrush" Opacity="1" Color="{StaticResource GroupHeaderColor}" />
+
+    <!-- This changes the title over each section -->
+    <Color x:Key="TitleColor">White</Color>
+    <SolidColorBrush x:Key="TitleBrush" Opacity="1" Color="{StaticResource TitleColor}" />
+
+    <!-- converters -->
+
+    <helpers:DateStringConverter x:Key="DateStringConverter" />
+    
+</ResourceDictionary>

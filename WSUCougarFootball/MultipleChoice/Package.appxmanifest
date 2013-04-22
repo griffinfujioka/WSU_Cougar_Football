@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="35527Liquid47.FarmAnimalsQuiz" Publisher="CN=Jerry" Version="1.0.0.1" />
+  <Properties>
+    <DisplayName>Farm Animals Quiz</DisplayName>
+    <PublisherDisplayName>Family Apps</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="MultipleChoice.App">
+      <VisualElements DisplayName="Farm Animals" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Farm Animals" ForegroundText="light" BackgroundColor="maroon">
+        <DefaultTile ShortName="Farm Animals" ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#22B14C" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.protocol">
+          <Protocol Name="multiplechoice" />
+        </Extension>
+        <Extension Category="windows.protocol">
+          <Protocol Name="dpeusw" />
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+</Package>
